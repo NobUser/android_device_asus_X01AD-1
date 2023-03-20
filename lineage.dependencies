@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_kernel_asus_X01AD",
-    "target_path": "kernel/asus/X01AD"
+    "repository": "android_kernel_asus_X01AD-1",
+    "target_path": "Kernel/asus/X01AD"
   }
 ]
