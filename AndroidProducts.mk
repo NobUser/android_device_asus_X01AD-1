@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_X01AD.mk
+    $(LOCAL_DIR)/bootleg_X01AD.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_X01AD-user \
-    evolution_X01AD-userdebug \
-    evolution_X01AD-eng
+    bootleg_X01AD-user \
+    bootleg_X01AD-userdebug \
+    bootleg_X01AD-eng
