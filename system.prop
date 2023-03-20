@@ -189,7 +189,7 @@ ro.cutoff_voltage_mv=3400
 ro.emmc_size=16GB
 
 #force HAL1 for below packages
-vendor.camera.hal1.packagelist=com.skype.raider,com.google.android.talk
+vendor.camera.hal1.packagelist=com.skype.raider,com.google.android.talk,com.whatsapp,org.telegram.messenger
 
 #Enable FR27607-RIL to send ONLINE cmd in bootup
 #persist.radio.poweron_opt=1
